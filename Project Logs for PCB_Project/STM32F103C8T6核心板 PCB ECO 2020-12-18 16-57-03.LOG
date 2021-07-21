@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator= NewDesignator=P2
+Change Component Designator: OldDesignator=RESET NewDesignator=SW1
+Added Member To Class: ClassName=Sheet1 Member=Component P2 SWD
+Added Room: Name=Sheet1
