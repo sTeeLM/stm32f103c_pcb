@@ -1,2 +1,2 @@
 # stm32f103c_pcb
-stm32f103CxT
+STM32F103C系列（LQFP48）核心板
