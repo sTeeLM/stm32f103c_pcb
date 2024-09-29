@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : D:\Lab\stm32f103c_pcb\STM32F103C8T6ºËÐÄ°å.PcbDoc
+Date         : 2024/9/29
+Time         : 9:03:06
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 53.5948mmx24.207mm
+    Components on board, 36
+count : 2
